@@ -1065,19 +1065,18 @@ section{
    overflow: hidden;
 }
 .phone {
-   width: 210px;
+   width: 230px;
    float: left;
    border-right: 1px solid #ddd;
 }
 
 .email {
-   width: 795px;
+   width: 775px;
    float: left;
 }
 .social {
    width: 134px;
    float: left;
-   
 }
 .social a {
    display: block;
